@@ -79,7 +79,7 @@ document.addEventListener("DOMContentLoaded", function () {
             canvas: document.createElement("canvas"),
             width: 300,
             height: 400,
-            skin: "Skin_1.png", // Skin dosyanın yolunu buraya koy
+            skin: "https://i.hizliresim.com/mcg1a4k.png", // Skin dosyanın yolunu buraya koy
         });
 
         container.appendChild(viewer.canvas);
